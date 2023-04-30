@@ -1,0 +1,1 @@
+{"year":2002,"director":"Quentin Tarrantono","animators":["Joe Hills | animator","Andrea Underhill | animator"],"name":"Kill Bill","rating":10,"type":"Animation","age":18}
